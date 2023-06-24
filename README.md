@@ -9,3 +9,5 @@ https://Grigoryan01.github.io/bootstrap/pricing
 https://Grigoryan01.github.io/bootstrap/heroes
 
 https://Grigoryan01.github.io/bootstrap/carousel
+
+https://grigoryan01.github.io/bootstrap/album
