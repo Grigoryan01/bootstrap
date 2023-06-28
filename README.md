@@ -14,3 +14,6 @@ https://grigoryan01.github.io/bootstrap/album
 
 
 https://grigoryan01.github.io/bootstrap/modal
+
+
+https://grigoryan01.github.io/bootstrap/page
