@@ -17,3 +17,6 @@ https://grigoryan01.github.io/bootstrap/modal
 
 
 https://grigoryan01.github.io/bootstrap/page
+
+
+https://grigoryan01.github.io/bootstrap/Cheatsheet.html
